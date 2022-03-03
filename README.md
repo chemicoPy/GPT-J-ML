@@ -88,14 +88,14 @@ Just run
 python3 -m streamlit run streamlit_app.py --server.port 8000
 ```
 
-## Contact
-
-If you have a request, I'll be happy to help you at `vgallegoalcala at gmail dot com`
 
 
 
 
-Special thanks to the following people, who sponsor this project! <3
+
+
+
+
 
 
 
